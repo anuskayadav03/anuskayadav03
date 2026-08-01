@@ -1,18 +1,127 @@
-# 💫 About Me:
-i am a college 3rd year student bteh cse <br>currently practicing dsa and learning web development in language java<br>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner-light.svg?v=1" alt="Animated anime-style developer banner for Anuska Yadav" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__anuska.yadav) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anuska Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuska.yadav0303@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anuskayadav03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anuskayadav03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuskayadav03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./lanyard.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./lanyard.svg?v=1">
+  <img src="./lanyard.svg?v=1" alt="Animated developer ID lanyard" width="360">
+</picture>
+
+### ✦ Full Stack Development · DSA · Java · Web ✦
+
+<a href="https://github.com/anuskayadav03">
+  <img src="https://img.shields.io/badge/GitHub-anuskayadav03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:anuskayadav0303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/anuskayadav03?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-9-9a4dff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anuskayadav03&label=PROFILE%20VIEWS&color=ff4fa3&style=for-the-badge&v=1" alt="Profile views">
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anuskayadav03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 About Me
+
+- 💻 I’m **Anuska Yadav**, focused on **full-stack development**.
+- 🧩 I’m practicing **DSA** and building my Java foundations.
+- 🌐 I enjoy turning frontend ideas into useful web projects.
+- 🌱 Learning → building → improving, one commit at a time.
+- ✨ Fun tagline: **anuska**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+`DSA` · `Java` · `HTML` · `CSS` · `JavaScript` · `Full Stack` · `MongoDB` · `Git` · `GitHub`
+
+</div>
+
+## 📊 Local Developer Stats
+
+<div align="center">
+
+<img src="./stats.svg?v=1" alt="Animated local developer stats" width="640">
+
+<br/>
+
+<img src="./langs.svg?v=1" alt="Animated language and tool focus bars" width="640">
+
+<br/>
+
+<img src="./trophies.svg?v=1" alt="Animated developer milestone trophy cells" width="640">
+
+</div>
+
+> These cards are repository-local SVGs, so they do not rely on rate-limited GitHub stats-card services.
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="./activity.svg?v=1" alt="Local animated contribution activity graph" width="900">
+
+</div>
+
+## 🚀 Projects
+
+| Project | Language / focus | What it represents |
+|---|---|---|
+| [internship-management-portal](https://github.com/anuskayadav03/internship-management-portal) | JavaScript | Full-stack/web development practice |
+| [DSA](https://github.com/anuskayadav03/DSA) | Java | DSA learning and implementation |
+| [java-collection-framework](https://github.com/anuskayadav03/java-collection-framework) | Java | Java collections practice |
+| [Full-stack-](https://github.com/anuskayadav03/Full-stack-) | HTML | Full-stack learning workspace |
+| [website-project](https://github.com/anuskayadav03/website-project) | HTML | HTML-only web page practice |
+| [payment-project](https://github.com/anuskayadav03/payment-project) | HTML | Web project practice |
+| [clone-practice](https://github.com/anuskayadav03/clone-practice) | — | UI / clone practice |
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1">
+  <img src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="900">
+</picture>
+
+</div>
+
+## 💌 Connect
+
+<div align="center">
+
+<a href="https://github.com/anuskayadav03">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:anuskayadav0303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br/><br/>
+
+**Keep coding · keep growing · keep building ✦**
+
+</div>
+
+<!--
+INSTALL:
+1. Put banner.svg, banner-light.svg, lanyard.svg, stats.svg, langs.svg,
+   trophies.svg, activity.svg and character.png in the root of your profile repo.
+2. Put github-snake.yml at .github/workflows/github-snake.yml.
+3. Make sure the repository is named anuskayadav03/anuskayadav03.
+4. The workflow creates the output branch automatically.
+-->
