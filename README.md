@@ -14,7 +14,7 @@
   <img src="./lanyard.svg?v=3" alt="Animated developer ID lanyard" width="360">
 </picture>
 
-### ✦ Full Stack Development · DSA · Java · Web ✦
+### ✨ Aspiring Full Stack Developer • Java • DSA Learner
 
 <a href="https://github.com/anuskayadav03">
   <img src="https://img.shields.io/badge/GitHub-anuskayadav03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -36,7 +36,7 @@
 
 ## 🌸 About Me
 
-- 💻 I’m **Anuska Yadav**, focused on **full-stack development**.
+- 💻 I'm Anuska Yadav, an aspiring full stack developer passionate about building web applications.
 - 🧩 I’m practicing **DSA** and building my Java foundations.
 - 🌐 I enjoy turning frontend ideas into useful web projects.
 - 🌱 Learning → building → improving, one commit at a time.
