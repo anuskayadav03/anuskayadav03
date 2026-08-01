@@ -26,7 +26,7 @@
     <path d="M176 0 C176 76 176 100 210 128 C244 100 244 76 244 0" fill="none" stroke="url(#strap)" stroke-width="26"/>
     <path d="M176 0 C176 76 176 100 210 128 C244 100 244 76 244 0" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2" stroke-dasharray="4 8"/>
     <text class="strapText" x="118" y="50" transform="rotate(90 118 50)">ANUSKA • CODE • GROW • BUILD •</text>
-    <text class="strapText" x="302" y="50" transform="rotate(90 302 50)">FULL STACK • ANUSKA •</text>
+    <text class="strapText" x="302" y="50" transform="rotate(90 302 50)"> ASPIRING FULL STACK DEVELOPER • ANUSKA •</text>
 
     <!-- clasp + ring -->
     <rect x="194" y="113" width="32" height="42" rx="7" fill="#c9c4d2" stroke="#fff" stroke-opacity=".55"/>
