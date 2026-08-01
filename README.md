@@ -1,17 +1,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner-light.svg?v=1" alt="Animated anime-style developer banner for Anuska Yadav" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img src="./banner-light.svg?v=3" alt="Animated anime-style developer banner for Anuska Yadav" width="100%">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./lanyard.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./lanyard.svg?v=1">
-  <img src="./lanyard.svg?v=1" alt="Animated developer ID lanyard" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="./lanyard.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./lanyard.svg?v=3">
+  <img src="./lanyard.svg?v=3" alt="Animated developer ID lanyard" width="360">
 </picture>
 
 ### ✦ Full Stack Development · DSA · Java · Web ✦
@@ -117,11 +117,4 @@
 
 </div>
 
-<!--
-INSTALL:
-1. Put banner.svg, banner-light.svg, lanyard.svg, stats.svg, langs.svg,
-   trophies.svg, activity.svg and character.png in the root of your profile repo.
-2. Put github-snake.yml at .github/workflows/github-snake.yml.
-3. Make sure the repository is named anuskayadav03/anuskayadav03.
-4. The workflow creates the output branch automatically.
--->
+
