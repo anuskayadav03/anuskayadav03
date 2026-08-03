@@ -1,35 +1,38 @@
-name: Generate Contribution Snake
+name: Generate custom contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "17 0 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate pink-purple snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: anuskayadav03
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
+            dist/github-snake.svg?color_snake=#ff4fa3&color_dots=#26102f,#5c1f56,#9a4d8f,#d24cff,#ff79b9
+            dist/github-snake-dark.svg?color_snake=#ff79b9&color_dots=#16051d,#3b1645,#6c356e,#9a4dff,#ff4fa3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: refresh contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ecrets.GITHUB_TOKEN }}
