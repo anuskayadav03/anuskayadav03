@@ -90,14 +90,24 @@
 | [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | — | Form creation |
 | [practice-menu-project](https://github.com/anuskayadav03/practice-project) | — |  Cafe Menu webpage built using HTML and CSS |
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="900">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
+  />
+
 </picture>
 
 </div>
