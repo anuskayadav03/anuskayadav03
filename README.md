@@ -1,20 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
-  <img src="./banner-light.svg?v=3" alt="Animated anime-style developer banner for Anuska Yadav" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner-light.svg?v=1" alt="Animated anime-style developer banner for Anuska Yadav" width="100%">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./lanyard.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./lanyard.svg?v=3">
-  <img src="./lanyard.svg?v=3" alt="Animated developer ID lanyard" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="./lanyard.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./lanyard.svg?v=1">
+  <img src="./lanyard.svg?v=1" alt="Animated developer ID lanyard" width="360">
 </picture>
 
-### ✨ Aspiring Full Stack Developer • Java • DSA Learner
+### ✦ Full Stack Development · DSA · Java · Web ✦
 
 <a href="https://github.com/anuskayadav03">
   <img src="https://img.shields.io/badge/GitHub-anuskayadav03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -36,7 +36,7 @@
 
 ## 🌸 About Me
 
-- 💻 I'm Anuska Yadav, an aspiring full stack developer passionate about building web applications.
+- 💻 I’m **Anuska Yadav**, focused on **full-stack development**.
 - 🧩 I’m practicing **DSA** and building my Java foundations.
 - 🌐 I enjoy turning frontend ideas into useful web projects.
 - 🌱 Learning → building → improving, one commit at a time.
@@ -90,24 +90,14 @@
 | [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | — | Form creation |
 | [practice-menu-project](https://github.com/anuskayadav03/practice-project) | — |  Cafe Menu webpage built using HTML and CSS |
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
-  />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1">
+  <img src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="900">
 </picture>
 
 </div>
@@ -128,6 +118,3 @@
 **Keep coding · keep growing · keep building ✦**
 
 </div>
-<br/><br/>
-
-
