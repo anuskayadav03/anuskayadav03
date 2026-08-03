@@ -19,9 +19,6 @@
 <a href="https://github.com/anuskayadav03?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-9-9a4dff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=anuskayadav03&label=PROFILE%20VIEWS&color=ff4fa3&style=for-the-badge&v=1" alt="Profile views">
 
 </div>
