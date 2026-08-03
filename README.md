@@ -88,6 +88,8 @@
 | [payment-project](https://github.com/anuskayadav03/payment-project) | HTML | Web project practice |
 | [clone-practice](https://github.com/anuskayadav03/clone-practice) | — | UI / clone practice |
 | [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | — | Form creation |
+| [practice-menu-project](https://github.com/anuskayadav03/practice-project) | — |  Cafe Menu webpage built using HTML and CSS |
+
 ## 🐍 Contribution Snake
 
 <div align="center">
