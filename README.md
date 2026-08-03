@@ -106,14 +106,14 @@
   />
 
   <img
-    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
     width="900"
   />
+
 </picture>
 
 </div>
-
 ## 💌 Connect
 
 <div align="center">
