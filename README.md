@@ -95,25 +95,13 @@
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="900"
-  />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1">
+  <img src="https://raw.githubusercontent.com/anuskayadav03/anuskayadav03/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="900">
 </picture>
 
 </div>
+
 ## 💌 Connect
 
 <div align="center">
@@ -130,5 +118,19 @@
 **Keep coding · keep growing · keep building ✦**
 
 </div>
+<br/><br/>
+
+## 💌 Connect
+
+<div align="center">
+
+<a href="https://github.com/anuskayadav03">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:anuskayadav0303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+
 
 
