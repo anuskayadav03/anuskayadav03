@@ -80,7 +80,7 @@
 | [clone-practice](https://github.com/anuskayadav03/clone-practice) | — | UI / clone practice |
 | [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | HTML | Form creation |
 | [practice-menu-project](https://github.com/anuskayadav03/practice-project) | HTML AND CSS |  Cafe Menu webpage built using HTML and CSS |
-| [sorting-algo](https://github.com/anuskayadav03/sorting) | — | JAVA|
+| [sorting-algo](https://github.com/anuskayadav03/sorting) | JAVA | Sorting algo|
 
 
 
