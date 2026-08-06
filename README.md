@@ -78,9 +78,9 @@
 | [website-project](https://github.com/anuskayadav03/website-project) | HTML | HTML-only web page practice |
 | [payment-project](https://github.com/anuskayadav03/payment-project) | HTML | Web project practice |
 | [clone-practice](https://github.com/anuskayadav03/clone-practice) | — | UI / clone practice |
-| [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | — | Form creation |
-| [practice-menu-project](https://github.com/anuskayadav03/practice-project) | — |  Cafe Menu webpage built using HTML and CSS |
-| [sorting-algo](https://github.com/anuskayadav03/sorting) | — | sorting|
+| [practice-surveyForm](https://github.com/anuskayadav03/practice-surveyForm) | HTML | Form creation |
+| [practice-menu-project](https://github.com/anuskayadav03/practice-project) | HTML AND CSS |  Cafe Menu webpage built using HTML and CSS |
+| [sorting-algo](https://github.com/anuskayadav03/sorting) | — | JAVA|
 
 
 
