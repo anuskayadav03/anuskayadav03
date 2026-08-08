@@ -17,7 +17,7 @@
 ### ✦ Full Stack Development · DSA · Java · Web ✦
 
 <a href="https://github.com/anuskayadav03?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-10-9a4dff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  <img src="https://img.shields.io/badge/Repos-11-9a4dff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 <img src="https://komarev.com/ghpvc/?username=anuskayadav03&label=PROFILE%20VIEWS&color=ff4fa3&style=for-the-badge&v=1" alt="Profile views">
 
