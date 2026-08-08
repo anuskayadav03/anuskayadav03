@@ -8,7 +8,7 @@
 <rect x="3" y="3" width="634" height="254" rx="24" fill="#16051d" stroke="#6c356e"/>
 <circle class="ring" cx="125" cy="130" r="86" fill="none" stroke="#44254d" stroke-width="14"/>
 <circle class="ring" cx="125" cy="130" r="86" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="390 151" transform="rotate(-90 125 130)"/>
-<text class="m" x="125" y="122" text-anchor="middle" fill="#ff4fa3" font-size="34">10</text><text class="m" x="125" y="145" text-anchor="middle" fill="#d8bfdc" font-size="12">PUBLIC REPOS</text>
+<text class="m" x="125" y="122" text-anchor="middle" fill="#ff4fa3" font-size="34">11</text><text class="m" x="125" y="145" text-anchor="middle" fill="#d8bfdc" font-size="12">PUBLIC REPOS</text>
 <text class="m" x="255" y="48" fill="#cdb4d0" font-size="12" letter-spacing="2">DEV PROFILE / LOCAL STATS</text>
 <g class="row s" fill="#fff"><text x="255" y="88" font-size="18">01 <tspan fill="#ff4fa3">WEB</tspan></text><text x="400" y="88" font-size="13" fill="#cdb4d0">building &amp; practice</text></g>
 <g class="row s" fill="#fff"><text x="255" y="124" font-size="18">02 <tspan fill="#d24cff">JAVA</tspan></text><text x="400" y="124" font-size="13" fill="#cdb4d0">DSA + collections</text></g>
