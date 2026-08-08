@@ -93,7 +93,7 @@
   <!-- local stats -->
   <rect x="48" y="510" width="548" height="74" rx="16" fill="#ffffff" stroke="#c86adf"/>
   <text class="small mono" x="68" y="535" fill="#765b7c">LOCAL_STATS</text>
-  <text class="sans" x="68" y="563" fill="#3c2448" font-size="16" font-weight="800">9 repositories</text>
+  <text class="sans" x="68" y="563" fill="#3c2448" font-size="16" font-weight="800">11 repositories</text>
   <text class="sans" x="240" y="563" fill="#3c2448" font-size="16" font-weight="800">DSA + Java</text>
   <text class="sans" x="395" y="563" fill="#3c2448" font-size="16" font-weight="800">Full Stack</text>
   <rect x="520" y="531" width="50" height="8" rx="4" fill="#3a2344"/>
