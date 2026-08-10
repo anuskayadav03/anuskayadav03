@@ -82,6 +82,7 @@
 | [practice-menu-project](https://github.com/anuskayadav03/practice-project) | HTML AND CSS |  Cafe Menu webpage built using HTML and CSS |
 | [sorting-algo](https://github.com/anuskayadav03/sorting) | JAVA | Sorting algo|
 | [greeting-card](https://github.com/anuskayadav03/greeting-card) | HTML /CSS | Simple Birthday card|
+| [css-practice](https://github.com/anuskayadav03/css-practice) | HTML /CSS | css practice code|
 
 
 
